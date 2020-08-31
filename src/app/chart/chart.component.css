@@ -1,0 +1,29 @@
+.container-alternate
+{
+  background-color: #32373a;
+}
+
+.container-alternate label
+{
+  color: white;
+}
+
+.container
+{
+  background-color: white;
+}
+
+.container label
+{
+  color: black;
+}
+
+.row
+{
+  background-color: white;
+}
+
+.row-alternate
+{
+  background-color: #32373a;
+}
